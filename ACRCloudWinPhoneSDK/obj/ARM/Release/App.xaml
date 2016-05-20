@@ -1,0 +1,9 @@
+﻿<Application
+    x:Class="ACRCloudWinPhoneSDK.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ACRCloudWinPhoneSDK"
+    RequestedTheme="Dark">
+
+</Application>
+
