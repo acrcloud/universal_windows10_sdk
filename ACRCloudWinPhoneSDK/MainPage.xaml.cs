@@ -55,7 +55,7 @@ namespace ACRCloudWinPhoneSDK
         {
             var config = new Dictionary<string, object>();
 
-            // Replace "XXXXXXXX" below with your project's access_key and access_secret
+            // Replace "XXXXXXXX" below with your project's host, access_key and access_secret
             config.Add("host", "XXXXXXXX");            
             config.Add("access_key", "XXXXXXXX");
             config.Add("access_secret", "XXXXXXXX");
